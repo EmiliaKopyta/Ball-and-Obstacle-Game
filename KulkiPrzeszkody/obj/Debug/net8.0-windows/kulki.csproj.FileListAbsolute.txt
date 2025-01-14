@@ -1,0 +1,52 @@
+C:\Users\emilk\OneDrive\Pulpit\kulki\bin\Debug\net8.0-windows\kulki.exe
+C:\Users\emilk\OneDrive\Pulpit\kulki\bin\Debug\net8.0-windows\kulki.deps.json
+C:\Users\emilk\OneDrive\Pulpit\kulki\bin\Debug\net8.0-windows\kulki.runtimeconfig.json
+C:\Users\emilk\OneDrive\Pulpit\kulki\bin\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\kulki\bin\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.Form1.resources
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.Properties.Resources.resources
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.csproj.GenerateResource.cache
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.AssemblyInfoInputs.cache
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.AssemblyInfo.cs
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.csproj.CoreCompileInputs.cache
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\refint\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\kulki.genruntimeconfig.cache
+C:\Users\emilk\OneDrive\Pulpit\kulki\obj\Debug\net8.0-windows\ref\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\bin\Debug\net8.0-windows\kulki.exe
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\bin\Debug\net8.0-windows\kulki.deps.json
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\bin\Debug\net8.0-windows\kulki.runtimeconfig.json
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\bin\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\bin\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.Form1.resources
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.Properties.Resources.resources
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.csproj.GenerateResource.cache
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.AssemblyInfoInputs.cache
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.AssemblyInfo.cs
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.csproj.CoreCompileInputs.cache
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\refint\kulki.dll
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\kulki.genruntimeconfig.cache
+C:\Users\emilk\OneDrive\Pulpit\Kulki — kopia\obj\Debug\net8.0-windows\ref\kulki.dll
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.Form1.resources
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.csproj.GenerateResource.cache
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\refint\kulki.dll
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\bin\Debug\net8.0-windows\kulki.exe
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\bin\Debug\net8.0-windows\kulki.deps.json
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\bin\Debug\net8.0-windows\kulki.runtimeconfig.json
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\bin\Debug\net8.0-windows\kulki.dll
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\bin\Debug\net8.0-windows\kulki.pdb
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.Properties.Resources.resources
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.AssemblyInfoInputs.cache
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.AssemblyInfo.cs
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.csproj.CoreCompileInputs.cache
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.sourcelink.json
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\kulki.genruntimeconfig.cache
+C:\Users\emilk\OneDrive\Documents\GitHub\zad-4-kulki-i-przeszkody-EmiliaKopyta\KulkiPrzeszkody\obj\Debug\net8.0-windows\ref\kulki.dll

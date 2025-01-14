@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|c:\\users\\emilk\\onedrive\\documents\\github\\zad-4-kulki-i-przeszkody-emiliakopyta\\kulkiprzeszkody\\gramotornieaktualny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:gramotornieaktualny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|c:\\users\\emilk\\onedrive\\documents\\github\\zad-4-kulki-i-przeszkody-emiliakopyta\\kulkiprzeszkody\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\gra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:gra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\przeszkoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:przeszkoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CC7AB7-E6BF-45DD-A8B7-9CF0A357B47C}|kulki.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraMotorNieaktualny.cs",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\GraMotorNieaktualny.cs",
+              "RelativeDocumentMoniker": "GraMotorNieaktualny.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\GraMotorNieaktualny.cs",
+              "RelativeToolTip": "GraMotorNieaktualny.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:22:08.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Przeszkoda.cs",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Przeszkoda.cs",
+              "RelativeDocumentMoniker": "Przeszkoda.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Przeszkoda.cs",
+              "RelativeToolTip": "Przeszkoda.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:55:13.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gra.cs",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Gra.cs",
+              "RelativeDocumentMoniker": "Gra.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Gra.cs",
+              "RelativeToolTip": "Gra.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAA7wHwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:39:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:54:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:10:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\emilk\\OneDrive\\Documents\\GitHub\\zad-4-kulki-i-przeszkody-EmiliaKopyta\\KulkiPrzeszkody\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:08:33.197Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
